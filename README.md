@@ -1,4 +1,3 @@
-
 ## Bio
 
 Passionate software engineer bringing a unique perspective and strong technical skills. Experienced in full-stack development, with a specialization in leveraging cutting-edge technologies to create robust, user-centric applications.
@@ -11,10 +10,9 @@ Constantly seeking to expand knowledge and stay current with industry trends, pa
 
 Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equipped with a strong foundation in programming fundamentals and a relentless drive to learn and grow as a developer. Eager to bring passion, skills, and fresh ideas to a dynamic software engineering team.
 
+
 ## Skills
 
-
-****
 #### Cloud providers
 <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
 
@@ -26,9 +24,19 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 #### Other
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,pycharm,neovim,obsidian,npm,obsidian" />
-****
+
 
 ## Projects
+
+- project 1
+- proj 2
+- etc et
+- etce
+- t
+- ete
+- rt
+- ec
+- 
 
 
 ## GitHub Stats
