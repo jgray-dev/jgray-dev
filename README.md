@@ -1,5 +1,5 @@
 
-### Bio
+## Bio
 
 Passionate software engineer bringing a unique perspective and strong technical skills. Experienced in full-stack development, with a specialization in leveraging cutting-edge technologies to create robust, user-centric applications.
 
@@ -11,11 +11,11 @@ Constantly seeking to expand knowledge and stay current with industry trends, pa
 
 Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equipped with a strong foundation in programming fundamentals and a relentless drive to learn and grow as a developer. Eager to bring passion, skills, and fresh ideas to a dynamic software engineering team.
 
-### Skills
+## Skills
 
-### Projects
+## Projects
 
 
-### GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)](https://git.io/streak-stats)
