@@ -12,6 +12,8 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 ## Contact me
 <a href="https://www.linkedin.com/in/jackson--gray" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:nophaxjustdoge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/j4ckson.g" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 ## Skills
