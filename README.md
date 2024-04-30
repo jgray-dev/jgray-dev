@@ -10,6 +10,9 @@ Constantly seeking to expand knowledge and stay current with industry trends, pa
 
 Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equipped with a strong foundation in programming fundamentals and a relentless drive to learn and grow as a developer. Eager to bring passion, skills, and fresh ideas to a dynamic software engineering team.
 
+## Contact me
+[(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## Skills
 
