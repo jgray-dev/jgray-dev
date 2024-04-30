@@ -12,11 +12,12 @@ Constantly seeking to expand knowledge and stay current with industry trends, pa
 Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equipped with a strong foundation in programming fundamentals and a relentless drive to learn and grow as a developer. Eager to bring passion, skills, and fresh ideas to a dynamic software engineering team.
 
 ## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <p style="text-align: center;">Cloud providers</p>
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </p>
 
 ## Projects
@@ -24,4 +25,9 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)]
+
+
+
+GithubStreak(https://git.io/streak-stats)
+SkillIcons(https://skillicons.dev)
