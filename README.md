@@ -41,7 +41,8 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 ## Projects
 
-- !Sunwatch(https://sunwat.ch/)
+- [Sunwatch](http://sunwat.ch)
+- [Aiducate](https://aiducate.app)
 
 
 ## GitHub Stats
