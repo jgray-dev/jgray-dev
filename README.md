@@ -39,10 +39,11 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,pycharm,neovim,obsidian,npm,obsidian" />
 
 
-## Projects
+## Deployed Projects
 
-- [Sunwatch](http://sunwat.ch)
-- [Aiducate](https://aiducate.app)
+- [Personal Website](https://jgray.cc/)
+- [Sunwatch](http://sunwat.ch/)
+- [Aiducate](https://aiducate.app/)
 
 
 ## GitHub Stats
