@@ -44,9 +44,7 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev)
 
 
 
-[GitHub Stats](https://git.io/streak-stats)
-[SkillIcons](https://skillicons.dev)
