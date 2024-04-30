@@ -13,6 +13,12 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 ## Skills
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 ## Projects
 
 
