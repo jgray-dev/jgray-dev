@@ -45,6 +45,7 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev&hide_progress=true)
 
 
 
