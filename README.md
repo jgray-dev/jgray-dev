@@ -45,5 +45,5 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 
 
 
-!GithubStreak(https://git.io/streak-stats)
-!SkillIcons(https://skillicons.dev)
+[GitHub Stats](https://git.io/streak-stats)
+[SkillIcons](https://skillicons.dev)
