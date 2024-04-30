@@ -27,6 +27,7 @@ Proud graduate of Flatiron School's rigorous software engineering bootcamp. Equi
 #### Other
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,pycharm,neovim,obsidian,npm,obsidian" />
 ****
+
 ## Projects
 
 
