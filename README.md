@@ -58,3 +58,4 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 
 
 
+↓ My pinned posts are projects im most proud of, along with "code challenges" completed during ym time at Flatiron School. All the code (tests excluded) in these code challenges are my own! 
