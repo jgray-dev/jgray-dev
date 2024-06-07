@@ -1,6 +1,3 @@
-$$\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/jgray-dev/jgray-dev/main/pattern.png');]{x0000}$$
-
-
 ## Bio
 
 Helloooooo! I'm Jackson Gray, a 20-year-old software engineer currently living in Denver, Colorado. My passion for programming began in my childhood, sparked by a love for video games and the desire to create my own Minecraft mods and servers for my friends and I to enjoy.
@@ -63,3 +60,8 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 
 My pinned posts are projects im most proud of, along with "code challenges" completed during my time at Flatiron School. All the code (tests excluded) in these code challenges are my own! 
 ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mxbi/mxbi/main/pattern.png');]{x0000}$}
+
