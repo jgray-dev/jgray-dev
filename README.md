@@ -61,7 +61,3 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 My pinned posts are projects im most proud of, along with "code challenges" completed during my time at Flatiron School. All the code (tests excluded) in these code challenges are my own! 
 ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓
 
-
-```math
-\ce{$\unicode[goombafont; color: red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.7; background: url('https://raw.githubusercontent.com/jgray-dev/jgray-dev/main/bg.gif'); background-size: 100% 100%; background-repeat: no-repeat;]{x0000}$}
-
