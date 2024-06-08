@@ -63,4 +63,4 @@ My pinned posts are projects im most proud of, along with "code challenges" comp
 
 
 ```math
-\ce{&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.7; background: url('https://raw.githubusercontent.com/jgray-dev/jgray-dev/main/bg.gif'); background-size: 100% 100%; background-repeat: no-repeat;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color: red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.7; background: url('https://raw.githubusercontent.com/jgray-dev/jgray-dev/main/bg.gif'); background-size: 100% 100%; background-repeat: no-repeat;]{x0000}$}
