@@ -50,7 +50,6 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 - [Aiducate](https://aiducate.app/)
 
 
-
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)
