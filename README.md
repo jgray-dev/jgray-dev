@@ -57,5 +57,6 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev&layout=donut)
 
 
+
 My pinned posts are projects im most proud of, along with "code challenges" completed during my time at Flatiron School. All the code (tests excluded) in these code challenges are my own! 
 ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓  ↓
