@@ -1,6 +1,7 @@
+(currently locked in @ work - rarely finding time to code - and when i do, it doesn't make it's way to github ;))
 ## Bio
 
-Helloooooo! I'm Jackson Gray, a 20-year-old software engineer currently living in Denver, Colorado. My passion for programming began in my childhood, sparked by a love for video games and the desire to create my own Minecraft mods and servers for my friends and I to enjoy.
+Helloooooo! I'm Jackson Gray, a 20-year-old software engineer currently living in Maine. My passion for programming began in my childhood, sparked by a love for video games and the desire to create my own Minecraft mods and servers for my friends and I to enjoy.
 
 Despite a rough start to my education, I rediscovered my love for programming a year after graduating from high school. Determined to turn my passion into a career, I enrolled in Columbia College Chicago to study programming. However, I soon realized that I craved a more immersive and challenging learning experience.
 
