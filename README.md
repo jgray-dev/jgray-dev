@@ -38,10 +38,10 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,py,php,cs" />
 
 #### Frameworks & libraries
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,flask,vite" />
+<img src="https://skillicons.dev/icons?i=remix,react,tailwind,nextjs,flask,vite" />
 
 #### Other
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,pycharm,neovim,obsidian,npm,obsidian" />
+<img src="https://skillicons.dev/icons?i=ubuntu,webstorm,pycharm,obsidian,bun,obsidian" />
 
 
 ## Deployed Projects
