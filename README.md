@@ -49,6 +49,7 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 - [Personal Website](https://jgray.cc/)
 - [Sunwatch](http://sunwat.ch/)
 - [Aiducate](https://aiducate.app/)
+- [Sweing](https://swe.ing/)
 
 
 ## GitHub Stats
