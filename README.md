@@ -35,7 +35,7 @@ If you'd like to connect or learn more about my work, feel free to reach out via
 <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
 
 #### Languages
-<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,html,js,php,py,rust" />
+<img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,css,html,ts,php,py,rust" />
 
 #### Frameworks & libraries
 <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,flask,vite" />
