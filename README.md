@@ -3,6 +3,7 @@
 i enjoy working on projects with real impact, not spam applying for jobs. if you like that, lets work together. email me jackson@jgray.cc
 
 
+
 ## Contact me
 <a href="https://www.linkedin.com/in/jackson--gray" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
