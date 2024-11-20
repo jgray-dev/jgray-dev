@@ -37,6 +37,7 @@ i enjoy working on projects with real impact, not spam applying for jobs. if you
 
 - [Personal Website](https://jgray.cc/)
 - [Sunwatch](http://sunwat.ch/)
+- [Sunwatch V3](http://swv3.com/)
 - [Aiducate](https://aiducate.app/)
 - [Sweing](https://swe.ing/)
 
@@ -47,3 +48,6 @@ i enjoy working on projects with real impact, not spam applying for jobs. if you
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev&layout=donut)
 
+
+
+![The sad reality](https://mynameisnt.kim/uploads/images/24C5CE23-AADD-4A47-B710-26E54B7CAAB1.png)
