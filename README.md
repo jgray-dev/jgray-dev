@@ -1,6 +1,6 @@
 ## Me
 
-i enjoy working on projects with real impact, not spam applying for jobs. if you like that, lets work together. email me jackson@jgray.cc
+i enjoy working on projects with real impact, not spam applying for jobs. lets work together. email me jackson@jgray.cc
 
 
 
@@ -9,7 +9,7 @@ i enjoy working on projects with real impact, not spam applying for jobs. if you
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 
-<a href = "mailto:nohaxjustdoge@gmail.com">
+<a href = "mailto:jackson@jgray.cc">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
@@ -30,15 +30,14 @@ i enjoy working on projects with real impact, not spam applying for jobs. if you
 <img src="https://skillicons.dev/icons?i=remix,react,tailwind,nextjs,flask,vite" />
 
 #### Other
-<img src="https://skillicons.dev/icons?i=ubuntu,webstorm,pycharm,obsidian,bun,obsidian" />
+<img src="https://skillicons.dev/icons?i=ubuntu,webstorm,pycharm,obsidian,bun" />
 
 
 ## Deployed Projects
 
 - [Personal Website](https://jgray.cc/)
 - [Sunwatch](http://sunwat.ch/)
-- [Sunwatch V3](http://swv3.com/)
-- [Aiducate](https://aiducate.app/)
+- [Aiducate](https://aiducate.app/) (currently reqriting this :))
 - [Sweing](https://swe.ing/)
 
 
