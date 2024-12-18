@@ -37,7 +37,7 @@ i enjoy working on projects with real impact, not spam applying for jobs. lets w
 
 - [Personal Website](https://jgray.cc/)
 - [Sunwatch](http://sunwat.ch/)
-- [Aiducate](https://aiducate.app/) (currently reqriting this :))
+- [Aiducate](https://aiducate.app/) (currently rewriting this :))
 - [Sweing](https://swe.ing/)
 
 
