@@ -1,6 +1,5 @@
 ## Me
-
-i enjoy working on projects with real impact, not spam applying for jobs. lets work together. email me jackson@jgray.cc
+I'm a software engineer with a diverse background that combines technical expertise with real-world problem-solving skills. After completing Flatiron School's full-stack development program, I've developed proficiency in multiple programming languages including TypeScript, Python, and C#, while working on projects ranging from AI-integrated educational platforms to cloud-based applications. My five years in hospitality have honed my ability to work effectively under pressure, collaborate with teams, and maintain a strong customer focus. I'm particularly passionate about creating practical solutions that have meaningful impact, and I continuously seek to expand my technical knowledge while applying my unique blend of skills to new challenges.
 
 
 
@@ -19,7 +18,6 @@ i enjoy working on projects with real impact, not spam applying for jobs. lets w
 
 
 ## I will die on the hill of this tech stack:
-###### click the technology to learn why i use it
 
 | Technology | Learn More |
 |------------|--------|
@@ -27,6 +25,8 @@ i enjoy working on projects with real impact, not spam applying for jobs. lets w
 | [TypeScript](https://jgray.cc/technology/typescript) | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) |
 | [Tailwind](https://jgray.cc/technology/tailwind) | [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) |
 | [Cloudflare](https://jgray.cc/technology/cloudflare) | [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/) |
+###### click the technology to learn why i use it
+
 
 ## Deployed Projects
 
