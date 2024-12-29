@@ -18,20 +18,15 @@ i enjoy working on projects with real impact, not spam applying for jobs. lets w
 </a>
 
 
-## Skills
+## I will die on the hill of this tech stack:
+###### click the technology to learn why i use it
 
-#### Cloud providers
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" />
-
-#### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,php,cs" />
-
-#### Frameworks & libraries
-<img src="https://skillicons.dev/icons?i=remix,react,tailwind,nextjs,flask,vite" />
-
-#### Other
-<img src="https://skillicons.dev/icons?i=ubuntu,webstorm,pycharm,obsidian,bun" />
-
+| Technology | Learn More |
+|------------|--------|
+| [Remix](https://jgray.cc/technology/remix) | [![Remix](https://img.shields.io/badge/-Remix-000000?style=flat&logo=remix&logoColor=white)](https://remix.run/) |
+| [TypeScript](https://jgray.cc/technology/typescript) | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) |
+| [Tailwind](https://jgray.cc/technology/tailwind) | [![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) |
+| [Cloudflare](https://jgray.cc/technology/cloudflare) | [![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/) |
 
 ## Deployed Projects
 
