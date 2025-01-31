@@ -38,10 +38,7 @@ I'm a software engineer with a diverse background that combines technical expert
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgray-dev)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgray-dev&layout=donut)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jgray-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ![The sad reality](https://mynameisnt.kim/uploads/images/24C5CE23-AADD-4A47-B710-26E54B7CAAB1.png)
